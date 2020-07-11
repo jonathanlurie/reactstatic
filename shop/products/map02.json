@@ -1,0 +1,38 @@
+{
+  "name": "some vintage map 2",
+  "shortDecription": "this is 2...",
+  "longDescription": [
+    "First paragraph",
+    "Second paragraph"
+  ],
+  "creationYear": 1880,
+  "authors": [
+    "robert",
+    "richard"
+  ],
+  "images": [
+    "qwert/a.jpg",
+    "qwert/b.jpg",
+    "qwert/c.jpg"
+  ],
+  "versions": [
+    {
+      "name": "24x36 inch",
+      "priceUSD": 54,
+      "widthCM": 2.54,
+      "heightCM": 2.54,
+      "widthInch": 1,
+      "heightInch": 1
+    },
+
+    {
+      "name": "18x24 inch",
+      "priceUSD": 39,
+      "widthCM": 2.54,
+      "heightCM": 2.54,
+      "widthInch": 1,
+      "heightInch": 1
+    }
+    
+  ]
+}
